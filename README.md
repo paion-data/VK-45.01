@@ -5,8 +5,8 @@ VK 45.01
 [![GitHub workflow status badge][GitHub workflow status badge]][GitHub workflow status URL]
 [![Apache License][Apache License Badge]][Apache License, Version 2.0]
 
-__VK 45.01__ is a companion [web app](https://vk4501.qubitpi.org/) hosting subtitles of selected movies extracted using
-[Tiger](https://tiger.qubitpi.org)
+__VK 45.01__ is a companion [web app](https://vk4501.qubitpi.org/) hosting subtitles of
+[selected movies](#selected-movies) extracted using [Tiger](https://tiger.qubitpi.org).
 
 Selected Movies
 ---------------
