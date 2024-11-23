@@ -17,11 +17,10 @@ import React, {useState} from 'react';
 import './App.css';
 import PlayingVideo from "./components/PlayingVideo";
 import PlayList from "./components/PlayingList";
-import { videos as data } from "./videos"
+import {videos as data} from "./videos"
 
 function App() {
-  const videos: {title: string, duration: string, transcript: JSX.Element}[] = data
-
+  const videos: { title: string, duration: string, transcript: JSX.Element }[] = data
   const [playingTitle, setPlayingTitle] = useState<string>(videos[0].title)
 
   return (
