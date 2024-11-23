@@ -14,29 +14,12 @@
  * limitations under the License.
  */
 .container {
-  height: 200vh;
-  width: 100%;
-  background: linear-gradient(45deg,#d2001a,#7462ff,#f48e21,#23d5ab);
-  background-size: 300% 300%;
-  animation: color 12s ease-in-out infinite;
-
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
   gap: 5rem;
 
   padding: .5rem 1rem;
-}
-@keyframes color {
-  0% {
-    background-position: 0 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0 50%;
-  }
 }
 
 .container .playingVideoSection {
