@@ -99,5 +99,27 @@ export const videos = [
       - Koch hat bestimmt schon zehn. <br/>
       - Dann schreibt Freitag seiner Frau morgen 'ne Karte vom Roten Platz. <br/>
     </div>
+  },
+  {
+      "title": "Generation War - Receiving Order",
+      "duration": "0:47",
+      "transcript": <div>
+        - Hauptmann Feigl. <br/>
+        - Wilhelm. Sechs Kilometer nordöstlich. Widerstandsnest in einer Fabrik. Wir wollen keine Zeit verlieren. Die
+          Kompanie umgeht sie und setzt ihren Weg fort. Die nehmen ihre besten Männer und räuchern es aus. Nach
+          erfolgreicher Erledigung schlossen sie zu uns. Verstanden?
+        <br/>
+        - Jawohl, Hauptmann. <br/>
+        - Viel Glück. <br/>
+        <br/>
+        - Es gibt ein Fabrikgelände, nordöstlich von hier zu räumen. Da kommen wir uns. Höring Fleck, Mann nach
+        Kupfkopfka. Wir treffen uns dann. Verstanden? <br/>
+        - Jawohl, Herr Leutnant. <br/>
+        - Dann los! <br/>
+        <br/>
+        - Jetzt gibt's was vor die Flinte, Mädels. Verstanden? <br/>
+        - Jawohl, Herr Hauptoffizier. <br/>
+        - Na dann, verhauen wir mal den Iwan ein bisschen, ne?
+      </div>
   }
 ]
