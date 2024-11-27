@@ -1150,15 +1150,15 @@ Jawohl, Herr Leutnant.
 253
 00:21:45,360 --> 00:21:47,800
 - Wo ist Freitag?
-- Der Sani versorgt ihn.
+- Der Sani versorgt ihn gerade.
 
 254
 00:21:59,080 --> 00:22:01,560
-Bringen Sie die Männer zum Lkw.
+Bringen Sie die Männer zum LKW.
 
 255
 00:22:01,640 --> 00:22:05,440
-- Er ist einer von diesen Kommissaren.
+- Aber, aber er ist einer von diesen Kommissaren!
 - Er wird verhört, verstanden?
 
 256

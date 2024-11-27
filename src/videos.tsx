@@ -121,5 +121,29 @@ export const videos = [
         - Jawohl, Herr Hauptoffizier. <br/>
         - Na dann, verhauen wir mal den Iwan ein bisschen, ne?
       </div>
+  },
+  {
+    "title": "Generation War - Operation Aftermaths",
+    "duration": "1:12",
+    "transcript": <div>
+      - Verdammtes jüdisches Bolschewistenschwein!
+      - Schneider, reiß dich zusammen!
+      - Schmidt könnte noch leben.
+      - Aber er ...
+      - Nichts aber! Hol das MG von oben.
+      - Jawohl, Herr Leutnant.
+      - Wo ist Freitag?
+      - Der Sani versorgt ihn gerade.
+      - Bringen Sie die Männer zum LKW.
+      - Aber, aber er ist einer von diesen Kommissaren!
+      - Er wird verhört, verstanden?
+      - Abführen!
+      - Ihr habt's gehört, Männer.
+      - Verbinsky.
+      - Kiek mal!
+      - Das ist für den Küchenbullen. Ich hab ein Rezept für Fleischsuppe von meiner Großmutter.
+      - Komm, Schnitzel.
+      - Komm. Komm, Schnitzel.
+    </div>
   }
 ]
