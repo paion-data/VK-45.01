@@ -126,23 +126,23 @@ export const videos = [
     "title": "Generation War - Operation Aftermaths",
     "duration": "1:12",
     "transcript": <div>
-      - Verdammtes jüdisches Bolschewistenschwein!
-      - Schneider, reiß dich zusammen!
-      - Schmidt könnte noch leben.
-      - Aber er ...
-      - Nichts aber! Hol das MG von oben.
-      - Jawohl, Herr Leutnant.
-      - Wo ist Freitag?
-      - Der Sani versorgt ihn gerade.
-      - Bringen Sie die Männer zum LKW.
-      - Aber, aber er ist einer von diesen Kommissaren!
-      - Er wird verhört, verstanden?
-      - Abführen!
-      - Ihr habt's gehört, Männer.
-      - Verbinsky.
-      - Kiek mal!
-      - Das ist für den Küchenbullen. Ich hab ein Rezept für Fleischsuppe von meiner Großmutter.
-      - Komm, Schnitzel.
+      - Verdammtes jüdisches Bolschewistenschwein! <br/>
+      - Schneider, reiß dich zusammen! <br/>
+      - Schmidt könnte noch leben. <br/>
+      - Aber er ... <br/>
+      - Nichts aber! Hol das MG von oben. <br/>
+      - Jawohl, Herr Leutnant. <br/>
+      - Wo ist Freitag? <br/>
+      - Der Sani versorgt ihn gerade. <br/>
+      - Bringen Sie die Männer zum LKW. <br/>
+      - Aber, aber er ist einer von diesen Kommissaren! <br/>
+      - Er wird verhört, verstanden? <br/>
+      - Abführen! <br/>
+      - Ihr habt's gehört, Männer. <br/>
+      - Verbinsky. <br/>
+      - Kiek mal! <br/>
+      - Das ist für den Küchenbullen. Ich hab ein Rezept für Fleischsuppe von meiner Großmutter. <br/>
+      - Komm, Schnitzel. <br/>
       - Komm. Komm, Schnitzel.
     </div>
   }
