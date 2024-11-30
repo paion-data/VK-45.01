@@ -18,7 +18,7 @@ import React from "react";
 import "./PlayingVideo.css"
 import playIcon from "./images/play.svg";
 
-import "./PlayingList.css"
+import "./PlayList.css"
 
 interface PlayListProps {
   playingTitle: string;
