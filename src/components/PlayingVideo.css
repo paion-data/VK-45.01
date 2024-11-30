@@ -19,14 +19,18 @@
 
 .playingVideo .title {
     margin-top: 1rem;
+    text-align: center;
 }
 
 .playingVideo video {
     width: 100%;
+    margin-top: 1rem;
     border-radius: 2rem;
 }
+
 .playingVideo .transcript {
     color: white;
+    margin-top: 1rem;
     font-size: 20px;
     /*font-family: BreitkopfFraktur;*/
     margin-bottom: 1rem;
