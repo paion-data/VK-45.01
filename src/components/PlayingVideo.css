@@ -14,23 +14,24 @@
  * limitations under the License.
  */
 .playingVideo {
-    width: 80%;
+    width: 85%;
 }
 
 .playingVideo .title {
     margin-top: 1rem;
 }
 
+.playingVideo video {
+    width: 100%;
+    border-radius: 2rem;
+}
 .playingVideo .transcript {
     color: white;
     font-size: 20px;
     /*font-family: BreitkopfFraktur;*/
+    margin-bottom: 1rem;
 }
 
-.playingVideo video {
-    width: 100%;
-    border-radius: .5rem;
-}
 
 .video img {
     position: absolute;
