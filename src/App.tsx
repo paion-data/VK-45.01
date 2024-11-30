@@ -15,9 +15,8 @@
  */
 import React, {useState} from 'react';
 import './App.css';
-import PlayingVideo from "./components/PlayingVideo";
-import PlayList from "./components/PlayingList";
 import {videos as data} from "./videos"
+import {PlayingVideo, PlayList} from "./components";
 
 function App() {
   const videos: { title: string, duration: string, transcript: JSX.Element }[] = data
