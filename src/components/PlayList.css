@@ -13,7 +13,18 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+.playlist {
+    width: 85%;
+}
+
 .playlist .title {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+
+.playlist .videoTitle {
+    margin-top: 1rem;
     padding-left: 1rem;
 }
 

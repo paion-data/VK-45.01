@@ -39,7 +39,7 @@ export default function PlayList(props: PlayListProps) {
                   onClick={() => props.listItemOnClick(video)}
               >
                 <img src={playIcon} alt=""/>
-                <h3 className="title">{video.title}</h3>
+                <h3 className="videoTitle">{video.title}</h3>
                 <p className="time">{video.duration}</p>
               </div>
             })
