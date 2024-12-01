@@ -15,6 +15,8 @@
  */
 
 import "./Header.css"
+import { ReactComponent as GitHubSvg } from './images/github.svg';
+
 
 export default function Header() {
   return (
@@ -27,7 +29,7 @@ export default function Header() {
         </div>
         <div className="GitHub">
           <a href="https://github.com/QubitPi/VK-45.01">
-            <img src="/github.svg" alt="github"/>
+            <GitHubSvg />
           </a>
         </div>
       </div>

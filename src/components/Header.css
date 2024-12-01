@@ -33,13 +33,17 @@
 }
 
 .header .GitHub {
-    padding: 0.5rem 2rem;
+    padding: 0.5rem 1rem;
 }
 
-.header .GitHub a img {
+.header .GitHub a svg {
     max-height: 2rem;
+    width: 50px;
+    height: 50px;
 }
 
-.header .GitHub a img {
-    max-height: 2rem;
+.header .GitHub a svg:hover {
+    fill: #5BBCFF;
 }
+
+
