@@ -14,6 +14,22 @@
  * limitations under the License.
  */
 
-export { default as Header } from "./Header";
-export { default as PlayList } from "./PlayList";
-export { default as PlayingVideo } from "./PlayingVideo";
+import "./Header.css"
+
+export default function Header() {
+  return (
+      <div className="header">
+        <div className="logo">
+          <img src="/logo512.png" alt="logo"/>
+        </div>
+        <div className="title">
+          VK-45.01
+        </div>
+        <div className="GitHub">
+          <a href="https://github.com/QubitPi/VK-45.01" style={{color: '#ffffff'}}>
+            <img src="/github512.png" alt="github"/>
+          </a>
+        </div>
+      </div>
+  )
+}

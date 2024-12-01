@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .logo img {
+    padding: 0.5rem 1rem;
+    max-height: 4rem;
+}
+
+.header .title {
+    font-size: 2rem;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.header .GitHub {
+    padding: 0.5rem 2rem;
+}
+
+.header .GitHub a img {
+    color: #0C6EFD;
+    max-height: 2rem;
+}
+
+
