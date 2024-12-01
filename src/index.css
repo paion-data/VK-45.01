@@ -37,7 +37,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-family: Ubuntu;
 
-  background: linear-gradient(45deg,#d2001a,#7462ff,#f48e21,#23d5ab);
+  background: linear-gradient(45deg,#FFD1E3,#7EA1FF,#FFFAB7,#5BBCFF);
   background-size: 300% 300%;
   animation: color 12s ease-in-out infinite;
 }
