@@ -37,8 +37,9 @@
 }
 
 .header .GitHub a img {
-    color: #0C6EFD;
     max-height: 2rem;
 }
 
-
+.header .GitHub a img {
+    max-height: 2rem;
+}

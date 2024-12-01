@@ -26,8 +26,8 @@ export default function Header() {
           VK-45.01
         </div>
         <div className="GitHub">
-          <a href="https://github.com/QubitPi/VK-45.01" style={{color: '#ffffff'}}>
-            <img src="/github512.png" alt="github"/>
+          <a href="https://github.com/QubitPi/VK-45.01">
+            <img src="/github.svg" alt="github"/>
           </a>
         </div>
       </div>
