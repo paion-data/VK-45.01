@@ -1444,8 +1444,8 @@ leihst du dem Gewehr einem von uns.
 
 318
 00:28:48,560 --> 00:28:51,080
-Soll ich Schmidts Eltern
-benachrichtigen?
+Wenn Sie wollen, dass ich Schmitz' Eltern
+benachrichtigen...
 
 319
 00:28:51,160 --> 00:28:52,560
@@ -1459,7 +1459,7 @@ ist verhört worden.
 321
 00:28:57,640 --> 00:29:01,000
 Vollkommen fanatisch.
-Er sagt, dass wir niemals gewinnen.
+Sagt, dass wir ihn niemals gewinnen werden.
 
 322
 00:29:03,720 --> 00:29:05,560
@@ -1467,7 +1467,7 @@ Er kann jetzt erschossen werden.
 
 323
 00:29:07,760 --> 00:29:10,920
-- Der Mann ist Kriegsgefangener.
+- Aber der Mann ist Kriegsgefangener.
 - Sie kennen den Befehl.
 
 324
@@ -1487,7 +1487,7 @@ sondern eine Weltanschauung.
 
 327
 00:29:26,960 --> 00:29:30,680
-Tun Sie's abseits,
+Tun Sie es abseits,
 sodass die Truppe nicht verroht.
 
 328

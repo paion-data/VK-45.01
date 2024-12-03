@@ -172,5 +172,18 @@ export const videos = [
       - Habt ihr was von Freitag gehört?  <br/>
       - Er ist im Lazarett.  <br/>
     </div>
+  },
+  {
+    "title": "Generation War - Order for Execution",
+    "duration": "1:01",
+    "transcript": <div>
+      - Saubere Aktion, Leutnant. <br/>
+      - Vielen Dank, Herr Hauptmann. <br/>
+      - Wenn Sie wollen, dass ich Schmitz' Eltern benachrichtigen... <br/>
+      - Das tue ich gerade. Der russische Kommissar ist verhört worden. Vollkommen fanatisch. Sagt, dass wir ihn niemals gewinnen werden. Er kann jetzt erschossen werden. <br/>
+      - Aber der Mann ist Kriegsgefangener. <br/>
+      - Sie kennen den Befehl. <br/>
+      - Die Sowjets haben die Genfer Konvention nicht unterschrieben. Die Kommissare sind sofort zu exekutieren. Das ist kein normaler Krieg, sondern eine Weltanschauung. Tun Sie es abseits, sodass die Truppe nicht verroht.
+    </div>
   }
 ]
