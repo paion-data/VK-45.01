@@ -144,5 +144,33 @@ export const videos = [
       - Komm, Schnitzel. <br/>
       - Komm. Komm, Schnitzel.
     </div>
+  },
+  {
+    "title": "Generation War - The Talk",
+    "duration": "1:56",
+    "transcript": <div>
+      - Die kommunistischen Genossen scheinen die Überlegenheit der arischen Rasse sehr schnell zu begreifen <br/>
+      - Geschenk vom Führer. <br/>
+      - Hier, das ist nur die Vorsuppe. Nachher bringt der Küchenbruder noch Schnitzel. Und für den Rest vom Kalb, wir haben Schnittchen. <br/>
+      <br/>
+      - Es gibt Suppe, Koch. <br/>
+      - Jawohl, Herr Leutnant. <br/>
+      - Friedhelm. <br/>
+      <br/>
+      - Was soll das? <br/>
+      - Was? Hab ich vergessen zu salutieren, Herr Leutnant? <br/>
+      - Du weißt genau, was! <br/>
+      - Du bist der Einzige, der sich nie freiwillig meldet. <br/>
+      - Im Kampf gegen das internationale Finanzjudentum, ja? Ich dachte, es genügt, einen Helden in der Familie zu haben. <br/>
+      - Ich bin hier nicht dein Bruder, sondern dein Vorgesetzter. <br/>
+      - Friedhelm, du weißt, wie sie über dich denken. Vor Vater konnte ich dich schützen, das kann ich hier nicht. <br/>
+      - Darum habe ich dich nie gebeten. Weißt du was, wenn du mich in einem Trupp haben willst, dann teile mich ein. <br/>
+      <br/>
+      - Männer, wir trinken ein letztes Mal auf Schmidt.  <br/>
+      - So Winter, kannst du auch eine Kerbe in den Kolben schneiden. Wenn du wieder einen Abschuss brauchst, leihst du dem Gewehr einem von uns.  <br/>
+      <br/>
+      - Habt ihr was von Freitag gehört?  <br/>
+      - Er ist im Lazarett.  <br/>
+    </div>
   }
 ]
