@@ -23,7 +23,11 @@ export default function Header() {
       <div className="header">
         <div className="logo">
           <img src="/logo512.png" alt="logo"/>
+          <div className="title">
+            VK-45.01
+          </div>
         </div>
+
         <div className="GitHub">
           <a href="https://github.com/QubitPi/VK-45.01">
             <GitHubSvg />

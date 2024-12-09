@@ -20,14 +20,20 @@
     align-items: center;
 }
 
+.header .logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
 .header .logo img {
     padding: 0.5rem 1rem;
     max-height: 4rem;
 }
 
-.header .title {
+.header .logo .title {
     font-size: 2rem;
-    color: #5BBCFF;
+    color: #7EA1FF;
     text-decoration: none;
     font-weight: 700;
 }
