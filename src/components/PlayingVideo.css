@@ -28,6 +28,14 @@
     border-radius: 2rem;
 }
 
+.playingVideo .transcriptTitle {
+    color: #5BBCFF;
+    margin-top: 1rem;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
 .playingVideo .transcript {
     color: #000;
     margin-top: 1rem;
@@ -35,7 +43,6 @@
     /*font-family: BreitkopfFraktur;*/
     margin-bottom: 1rem;
 }
-
 
 .video img {
     position: absolute;

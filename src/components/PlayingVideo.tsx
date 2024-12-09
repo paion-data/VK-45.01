@@ -26,6 +26,7 @@ export default function PlayingVideo(props: PlayingVideoProps) {
       <div className="playingVideo">
         <h3 className="title">{props.videoTitle}</h3>
         <video src={`videos/${props.videoTitle}.mp4`} controls autoPlay muted></video>
+        <div className="transcriptTitle">Video Transcript</div>
         <div className="transcript">{props.transcript}</div>
       </div>
   )
