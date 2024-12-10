@@ -38,7 +38,7 @@ body {
   font-family: Ubuntu;
 
   /*https://colorhunt.co/palette/5bbcfffffab7ffd1e37ea1ff*/
-  background: linear-gradient(45deg,#FFD1E3,#7EA1FF,#FFFAB7,#5BBCFF);
+  background: linear-gradient(45deg,#FFD1E3,#7EA1FF,#5BBCFF);
 
   background-size: 300% 300%;
   animation: color 12s ease-in-out infinite;
