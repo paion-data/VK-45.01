@@ -55,6 +55,7 @@ export const videos = [
       - Wartet, ich mach noch ein Foto. Na los, stell dich dann dort nach hinten ans Regal. Na, kommt. <br/>
       - Hier? <br/>
       - Ja, das ist gut. Nimm einen Stuhl, einen Hocker, irgendwas. Friedhelm, komm nach vorne. Nimm Greta. <br/>
+      <br/>
       Wir waren fünf Freunde. Wir waren jung und wir wussten, dass uns die Zukunft gehören würde. Die ganze Welt lag
       vor uns. Wir mussten nur zugreifen. Wir waren unsterblich. Wir sollten es bald besser wissen.
     </div>
