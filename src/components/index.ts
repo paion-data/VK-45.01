@@ -17,3 +17,4 @@
 export { default as Header } from "./Header";
 export { default as PlayList } from "./PlayList";
 export { default as PlayingVideo } from "./PlayingVideo";
+export { default as Footer } from "./Footer";

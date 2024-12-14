@@ -16,7 +16,7 @@
 import React, {useState} from 'react';
 import './App.css';
 import {videos as data} from "./videos"
-import {Header, PlayingVideo, PlayList} from "./components";
+import {Footer, Header, PlayingVideo, PlayList} from "./components";
 
 function App() {
   const videos: { title: string, duration: string, transcript: JSX.Element }[] = data
@@ -39,6 +39,9 @@ function App() {
               videos={videos}
               listItemOnClick={(video) => setPlayingTitle(video.title)}
           />
+        </div>
+        <div className="footerSection">
+          <Footer />
         </div>
       </div>
   );

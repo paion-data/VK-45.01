@@ -14,20 +14,16 @@
  * limitations under the License.
  */
 
-import "./PlayingVideo.css"
+import "./Footer.css"
 
-interface PlayingVideoProps {
-  videoTitle: string;
-  transcript: JSX.Element
-}
 
-export default function PlayingVideo(props: PlayingVideoProps) {
+export default function Footer() {
   return (
-      <div className="playingVideo">
-        <h3 className="title">{props.videoTitle}</h3>
-        <video src={`videos/${props.videoTitle}.mp4`} controls autoPlay muted></video>
-        <div className="transcriptTitle">Clip Transcript</div>
-        <div className="transcript">{props.transcript}</div>
+      <div className="footer">
+        <p>VK-45.01 is a companion project for QubitPi/tiger</p>
+        <div className="logo">
+          <img src="/logo512.png" alt="logo"/>
+        </div>
       </div>
   )
 }
