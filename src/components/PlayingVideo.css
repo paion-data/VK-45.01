@@ -29,7 +29,7 @@
 }
 
 .playingVideo .transcriptTitle {
-    color: #32A669;
+    color: var(--primary-green);
     margin-top: 1rem;
     font-size: 30px;
     font-weight: bold;

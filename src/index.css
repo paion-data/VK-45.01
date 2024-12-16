@@ -23,6 +23,13 @@
   src: url(BreitkopfFraktur.ttf);
 }
 
+/* https://www.figma.com/colors/royal-blue/ */
+:root {
+  --primary-blue: #5F81E5;
+  --primary-orange: #DE5B30;
+  --primary-green: #32A669
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -38,7 +45,7 @@ body {
   font-family: Ubuntu;
 
   /* https://www.figma.com/colors/royal-blue/ */
-  background: linear-gradient(45deg,#5F81E5,#5F81E5,#5F81E5);
+  background-color: var(--primary-blue);
 
   background-size: 300% 300%;
   animation: color 12s ease-in-out infinite;
