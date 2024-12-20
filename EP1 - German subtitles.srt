@@ -1681,13 +1681,13 @@ Gute Nacht.
 
 370
 00:34:55,040 --> 00:34:58,160
-Ab in die Falle, Männer,
-morgen um sechs geht's los.
+Ab in die Falle, Männer.
+Morgen um sechs geht's los.
 
 371
 00:35:01,920 --> 00:35:05,960
 - Scheiße, das ist mit dem Leutnant.
-- Koch, er hat's für uns getan.
+- Was scheiße, Koch, er hat's für uns getan.
 
 372
 00:35:06,040 --> 00:35:08,000
@@ -1709,7 +1709,7 @@ anders mit uns machen?
 
 376
 00:35:16,120 --> 00:35:19,480
-Vielleicht ist er ja gerade dabei,
+Vielleicht ist er gerade dabei,
 von uns zu lernen.
 
 377
