@@ -1867,27 +1867,27 @@ sind wir mit dabei.
 
 411
 00:38:26,080 --> 00:38:29,560
-<i>Wir nehmen die Russen</i>
-<i>zu Hundertausenden gefangen.</i>
+<i>Im Kesselschlachten nehmen wir die Russen</i>
+<i>zu Hunderttausenden gefangen.</i>
 
 412
 00:38:29,640 --> 00:38:33,200
-<i>Doch sie geben nicht auf,</i>
-<i>kämpfen um jedes Haus.</i>
+<i>Doch sie geben immer noch nicht auf.</i>
+<i>Kämpfen um jedes Haus.</i>
 
 413
 00:38:33,280 --> 00:38:37,000
-<i>Die Zuckungen eines Kolosses,</i>
-<i>der kurz davorsteht, zu fallen.</i>
+<i>Die letzten Zuckungen eines Kolosses,</i>
+<i>der kurz davor steht zu fallen.</i>
 
 414
 00:38:37,080 --> 00:38:40,640
-<i>Ich bin optimistisch, dass wir</i>
-<i>Weihnachten zuhause sein werden.</i>
+<i>Ich bin immer noch optimistisch, dass wir</i>
+<i>Weihnachten wieder zu Hause sein werden.</i>
 
 415
 00:38:40,720 --> 00:38:43,960
-<i>Und doch ist es ein anderer Krieg,</i>
+<i>Und doch, es ist ein anderer Krieg,</i>
 <i>als ich dachte.</i>
 
 416
