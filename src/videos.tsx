@@ -19,7 +19,12 @@ export const videos = [
     "title": "Generation War - Party",
     "duration": "1:49",
     "transcript": <div>
-      Wir waren fünf. Fünf Freunde. Wir wollten noch einmal gebührend voneinander Abschied nehmen, bevor sich unsere
+      Wir waren fünf. Fünf Freunde. <br/>
+      <br/>
+      - Sag mal, seit wann hast du so ein schickes Fahrrad? <br/>
+      - Geklaut. <br/>
+      <br/>
+      Wir wollten noch einmal gebührend voneinander Abschied nehmen, bevor sich unsere
       Wege trennten. Wir waren im selben Viertel aufgewachsen und kannten uns, seit wir Kinder waren. Wir hätten nicht
       unterschiedlicher sein können. Und doch waren wir seit der Zeit Freunde, die zusammenhielten. Charly, unser
       Nesthäkchen, will seit Kriegsbeginn den Dienst fürs Vaterland leisten. Sie wird als Krankenschwester in einem
