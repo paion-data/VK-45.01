@@ -27,14 +27,14 @@ export const videos = [
       Wir wollten noch einmal gebührend voneinander Abschied nehmen, bevor sich unsere
       Wege trennten. Wir waren im selben Viertel aufgewachsen und kannten uns, seit wir Kinder waren. Wir hätten nicht
       unterschiedlicher sein können. Und doch waren wir seit der Zeit Freunde, die zusammenhielten. Charly, unser
-      Nesthäkchen, will seit Kriegsbeginn den Dienst fürs Vaterland leisten. Sie wird als Krankenschwester in einem
+      Nesthäkchen, will seit Kriegsbeginn ihren Dienst fürs Vaterland leisten. Sie wird als Krankenschwester in einem
       Lazarett arbeiten, das hinter der Front meiner Einheit folgt. Viktor Goldstein. Sein Vater war Unteroffizier im
       Ersten Weltkrieg und später ein angesehener Schneider. Viktor sollte das Geschäft übernehmen, bevor es in der
       Reichskristallnacht in Scherben zerfiel. Das ist seine Freundin Greta. Die beiden sind unzertrennlich. Greta
-      interessiert es nicht, dass ihre Beziehung zur Victor als Rassenschande gilt. Sie wird einmal ein Star werden.
-      Die neue Marlene Dietrich. Mein kleiner Bruder Friedhelm. Der Bücherwurm, der Rimbaud und Jünger liebt. Ich
-      bewundere ihn für seine Klugheit und seinen scharfen Witz. Für ihn ist es das erste Mal. Und hier bin ich,
-      Wilhelm Winter. Leutnant der Windhund-Kompanie. Einsatz in Polen und Frankreich. Und morgen geht's Richtung
+      interessiert es nicht, dass ihre Beziehung zur Victor als Rassenschande gilt. Wir alle glauben, dass sie mal ein
+      Star werden wird. Die neue Marlene Dietrich. Mein kleiner Bruder Friedhelm. Der Bücherwurm, der Rimbaud und Jünger
+      liebt. Ich bewundere ihn für seine Klugheit und seinen scharfen Witz. Für ihn ist es das erste Mal. Und hier bin
+      ich, Wilhelm Winter. Leutnant der Windhund-Kompanie. Einsatz in Polen und Frankreich. Und morgen geht's Richtung
       Russland. <br/>
       <br/>
       - Der Krieg wird schon noch einen Mann aus ihm machen. <br/>

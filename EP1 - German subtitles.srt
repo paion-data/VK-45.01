@@ -301,7 +301,7 @@ Auf uns.
 
 67
 00:06:01,200 --> 00:06:03,920
-<i>will seit Kriegsbeginn den Dienst</i>
+<i>will seit Kriegsbeginn ihren Dienst</i>
 <i>fürs Vaterland leisten.</i>
 
 68
@@ -349,7 +349,7 @@ Auf uns.
 
 77
 00:06:30,920 --> 00:06:33,080
-<i>Sie wird einmal ein Star werden.</i>
+<i>Wir alle glauben, dass sie mal ein Star werden wird.</i>
 
 78
 00:06:33,160 --> 00:06:35,280
