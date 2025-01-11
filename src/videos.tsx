@@ -24,8 +24,15 @@ export const videos = [
       - Sag mal, seit wann hast du so ein schickes Fahrrad? <br/>
       - Geklaut. <br/>
       <br/>
-      Wir wollten noch einmal gebührend voneinander Abschied nehmen, bevor sich unsere
-      Wege trennten. Wir waren im selben Viertel aufgewachsen und kannten uns, seit wir Kinder waren. Wir hätten nicht
+      Wir wollten noch einmal gebührend voneinander Abschied nehmen, bevor sich unsere Wege trennten.
+      <br/>
+      - Auf uns! <br/>
+      <br/>
+      - Auf uns! <br/>
+      <br/>
+      - Auf uns! <br/>
+      <br/>
+      Wir waren im selben Viertel aufgewachsen und kannten uns, seit wir Kinder waren. Wir hätten nicht
       unterschiedlicher sein können. Und doch waren wir seit der Zeit Freunde, die zusammenhielten. Charly, unser
       Nesthäkchen, will seit Kriegsbeginn ihren Dienst fürs Vaterland leisten. Sie wird als Krankenschwester in einem
       Lazarett arbeiten, das hinter der Front meiner Einheit folgt. Viktor Goldstein. Sein Vater war Unteroffizier im
