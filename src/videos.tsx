@@ -24,12 +24,10 @@ export const videos = [
       - Sag mal, seit wann hast du so ein schickes Fahrrad? <br/>
       - Geklaut. <br/>
       <br/>
-      Wir wollten noch einmal gebührend voneinander Abschied nehmen, bevor sich unsere Wege trennten.
+      Wir wollten noch einmal gebührend voneinander Abschied nehmen, bevor sich unsere Wege trennten. <br/>
       <br/>
       - Auf uns! <br/>
-      <br/>
       - Auf uns! <br/>
-      <br/>
       - Auf uns! <br/>
       <br/>
       Wir waren im selben Viertel aufgewachsen und kannten uns, seit wir Kinder waren. Wir hätten nicht
