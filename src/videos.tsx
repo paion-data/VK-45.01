@@ -159,7 +159,7 @@ export const videos = [
       - Komm, Schnitzel. <br/>
       - Komm. Komm, Schnitzel.
     </div>,
-    "youTubeVideoId": "KYWMEjmUtgQ"
+    "googleDriveVideoId": "1XV66QYsGJvoUYfMviFE-OmvLKZgw-jbH"
   },
   {
     "title": "Generation War - The Talk",
@@ -188,7 +188,7 @@ export const videos = [
       - Habt ihr was von Freitag gehört?  <br/>
       - Er ist im Lazarett.  <br/>
     </div>,
-    "youTubeVideoId": "UNKNOWN"
+    "youTubeVideoId": "1oCOGixdYms"
   },
   {
     "title": "Generation War - Order for Execution",
@@ -277,7 +277,7 @@ export const videos = [
       - Wie Sie wünschen, Leutnant. <br/>
       - Herr Sturmbannführer. <br/>
     </div>,
-    "youTubeVideoId": "UNKNOWN"
+    "youTubeVideoId": "fALweo6p318"
   },
   {
     "title": "Generation War - Post-Talk on Executing Jewish Girl",

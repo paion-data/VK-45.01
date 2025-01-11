@@ -18,19 +18,27 @@ import "./PlayingVideo.css"
 
 interface PlayingVideoProps {
   videoTitle: string;
-  transcript: JSX.Element
-  youTubeVideoId: string;
+  transcript: JSX.Element;
+  youTubeVideoId?: string;
+  googleDriveVideoId?: string;
 }
 
 export default function PlayingVideo(props: PlayingVideoProps) {
   return (
       <div className="playingVideo">
         <h3 className="title">{props.videoTitle}</h3>
-        <iframe src={`https://www.youtube.com/embed/${props.youTubeVideoId}`}
-                title={"Generation War"}
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowFullScreen></iframe>
+        {
+          props.youTubeVideoId
+              ? <iframe
+                  src={`https://www.youtube.com/embed/${props.youTubeVideoId}`}
+                  title={"Generation War"}
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen></iframe>
+              : <video
+                  src={`https://www.googleapis.com/drive/v3/files/${props.googleDriveVideoId}?alt=media&key=AIzaSyDyfx-znEdHqX1PhBgfOVXkBnjioffkgTs`}
+                  controls autoPlay muted></video>
+        }
         <div className="transcriptTitle">Clip Transcript</div>
         <div className="transcript">{props.transcript}</div>
       </div>
