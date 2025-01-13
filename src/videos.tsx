@@ -44,7 +44,7 @@ export const videos = [
       <br/>
       - Der Krieg wird schon noch einen Mann aus ihm machen. <br/>
       - Glaub mir, der Krieg wird nur das Schlechteste in uns zum Vorschein bringen. <br/>
-      - Ich würde gern mitmachen, wie mein Vater 1913, aber wenn ihr verliert, heißt es wieder Wir waren schon. <br/>
+      - Ich würde gern mitmachen, wie mein Vater 1913, aber wenn ihr verliert, heißt es wieder wir waren schon. <br/>
       - Das ist eben kein Land für Schwächlinge und Volksfremde. <br/>
       - Jeder muss Opfer bringen. <br/>
     </div>,
