@@ -221,7 +221,7 @@ export const videos = [
       - Ich will dir doch einfach nur den Vortritt lassen, Schneider. Wo du so scharf aufs Eke 1 bist, hm? <br/>
       - Was? Was hast du gesagt? <br/>
       - [Soldat] Achtung! <br/>
-      - Macht Schluss für heute. Wir brechen um sechs auf. Es wird ein harter Tag morgen. Gute Nacht.
+      - Macht Schluss für heute. Wir brechen um sechs auf. Es wird ein harter Tag morgen. Gute Nacht. <br/>
       - Ab in die Falle, Männer. Morgen um sechs geht's los. <br/>
       - Scheiße, das ist mit dem Leutnant. <br/>
       - Was scheiße, Koch, er hat's für uns getan. <br/>
