@@ -27,15 +27,15 @@ export default function Footer(): JSX.Element {
         <div className="navigation">
           <ul>
             <li className="listItem">
-              <a href="https://github.com/QubitPi/tiger">
+              <a href="https://github.com/paion-data/tiger">
                 <span className="listItemIcon">
                   <img src={HuggingFaceIcon} alt="HuggingFaceIcon" />
                 </span>
-                <span className="listItemText">QubitPi/tiger</span>
+                <span className="listItemText">paion-data/tiger</span>
               </a>
             </li>
             <li className="listItem">
-              <a href="https://github.com/QubitPi/VK-45.01">
+              <a href="https://github.com/paion-data/VK-45.01">
                 <span className="listItemIcon">
                   <img src={GitHubSvg} alt="GitHubSvg" />
                 </span>

@@ -1,5 +1,5 @@
 /**
- * Copyright 2025 Jiaqi Liu. All rights reserved.
+ * Copyright 2025 Paion Data. All rights reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -25,10 +25,9 @@ import { store } from "../../vk4501-redux";
 
 if (process.env.NODE_ENV === "production") {
   Sentry.init({
-    dsn: "https://17b9db2ed09f58b5000224e73f3230a0@o4505480921022464.ingest.us.sentry.io/4508701862199296",
+    dsn: "https://09a725989ba70b8dd6dea12ed11c841c@o4505480921022464.ingest.us.sentry.io/4508704243122176",
     integrations: [Sentry.browserTracingIntegration(), Sentry.replayIntegration()],
     tracesSampleRate: 1.0,
-    tracePropagationTargets: ["localhost", /^https:\/\/vk4501\.qubitpi\.org/],
     replaysSessionSampleRate: 0.1,
     replaysOnErrorSampleRate: 1.0,
   });
