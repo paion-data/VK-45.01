@@ -45,6 +45,9 @@ export default function Footer(): JSX.Element {
           </ul>
         </div>
       </div>
+      <div>
+        <a href="https://beian.miit.gov.cn/#/Integrated/index">粤ICP备2024234224</a>
+      </div>
       <img src={Logo} alt="logo" />
     </div>
   );
